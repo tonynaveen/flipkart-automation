@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[SAMSUNG 253 L Frost Free Double Door 3 Star Convertible Refrigerator]]>
+    </line>
+    <line>
+      <![CDATA[SAMSUNG 275 L Frost Free Double Door 3 Star Convertible Refrigerator]]>
+    </line>
+    <line>
+      <![CDATA[SAMSUNG 275 L Frost Free Double Door 3 Star Refrigerator]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-03-14T12:59:42 IST" name="Suite" finished-at="2022-03-14T13:01:39 IST" duration-ms="117534">
+    <groups>
+    </groups>
+    <test started-at="2022-03-14T12:59:42 IST" name="Test" finished-at="2022-03-14T13:01:39 IST" duration-ms="117534">
+      <class name="flipkart.automation.scripts.Signout">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:flipkart.automation.scripts.Signout@3972a855]" started-at="2022-03-14T13:01:23 IST" name="openApp" finished-at="2022-03-14T13:01:27 IST" duration-ms="3913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="test_logout()[pri:0, instance:flipkart.automation.scripts.Signout@3972a855]" started-at="2022-03-14T13:01:27 IST" name="test_logout" finished-at="2022-03-14T13:01:39 IST" duration-ms="12621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_logout -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:flipkart.automation.scripts.Signout@3972a855]" started-at="2022-03-14T13:01:39 IST" name="closeApp" finished-at="2022-03-14T13:01:39 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- flipkart.automation.scripts.Signout -->
+      <class name="flipkart.automation.scripts.verifyinglogin">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:flipkart.automation.scripts.verifyinglogin@865dd6]" started-at="2022-03-14T13:00:51 IST" name="openApp" finished-at="2022-03-14T13:00:56 IST" duration-ms="4627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="test2()[pri:0, instance:flipkart.automation.scripts.verifyinglogin@865dd6]" started-at="2022-03-14T13:00:56 IST" name="test2" finished-at="2022-03-14T13:01:04 IST" duration-ms="8328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:flipkart.automation.scripts.verifyinglogin@865dd6]" started-at="2022-03-14T13:01:04 IST" name="closeApp" finished-at="2022-03-14T13:01:05 IST" duration-ms="726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- flipkart.automation.scripts.verifyinglogin -->
+      <class name="flipkart.automation.scripts.SignIn">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:flipkart.automation.scripts.SignIn@1649b0e6]" started-at="2022-03-14T12:59:42 IST" name="openApp" finished-at="2022-03-14T12:59:48 IST" duration-ms="6608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="test1()[pri:0, instance:flipkart.automation.scripts.SignIn@1649b0e6]" started-at="2022-03-14T12:59:48 IST" name="test1" finished-at="2022-03-14T13:00:51 IST" duration-ms="62769" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[SAMSUNG 253 L Frost Free Double Door 3 Star Convertible Refrigerator]]>
+            </line>
+            <line>
+              <![CDATA[SAMSUNG 275 L Frost Free Double Door 3 Star Convertible Refrigerator]]>
+            </line>
+            <line>
+              <![CDATA[SAMSUNG 275 L Frost Free Double Door 3 Star Refrigerator]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:flipkart.automation.scripts.SignIn@1649b0e6]" started-at="2022-03-14T13:00:51 IST" name="closeApp" finished-at="2022-03-14T13:00:51 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- flipkart.automation.scripts.SignIn -->
+      <class name="flipkart.automation.scripts.SearchInvalid">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:flipkart.automation.scripts.SearchInvalid@4da4253]" started-at="2022-03-14T13:01:05 IST" name="openApp" finished-at="2022-03-14T13:01:09 IST" duration-ms="3527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="test3()[pri:0, instance:flipkart.automation.scripts.SearchInvalid@4da4253]" started-at="2022-03-14T13:01:09 IST" name="test3" finished-at="2022-03-14T13:01:23 IST" duration-ms="14126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:flipkart.automation.scripts.SearchInvalid@4da4253]" started-at="2022-03-14T13:01:23 IST" name="closeApp" finished-at="2022-03-14T13:01:23 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- flipkart.automation.scripts.SearchInvalid -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
